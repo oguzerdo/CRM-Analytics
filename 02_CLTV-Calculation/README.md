@@ -1,9 +1,5 @@
 # Customer Life Time Value
 
-![image-20210430000720601](images/image-20210430000720601.png)
-
-**Customer lifetime value.** 
-
 It is the monetary value that a customer will bring to this company during their relationship with a company. 
 
 At RFM, we divided our customers into groups, but we did not have the knowledge to measure how these customers would add value to us from a broader perspective, ie time projection. 
