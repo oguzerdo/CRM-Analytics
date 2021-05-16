@@ -1,6 +1,6 @@
-![image-20210430000720601](images/image-20210430000720601.png)
-
 # Customer Lifetime Value Prediction
+
+![image-20210516204751990](images/image-20210516204751990.png)
 
 ## Business Problem & Purpose
 
